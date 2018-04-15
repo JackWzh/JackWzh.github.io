@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title: Micronaut Modified So Simple Theme
+title: A Seaside White House
 locale: en_US
-timezone: CET
-description: Theme based on So Simple Theme
-logo: site-logo.svg
+timezone: Asia/Shanghai
+description: Where Old Jack's Heart Belongs To
+logo: white-house.jpg
 search: true
-url: #your-site-url
+url: https://jackwzh.github.io
 external_data_url: # common url for images and other external data
 
 # Jekyll configuration
@@ -61,13 +61,13 @@ compress_html:
 
 # Site owner
 owner:
-  name: Site Name
-  avatar: site-logo.png
-  email: #youremail
-  disqus-shortname: #your-disqus-shortname
+  name: Old Jack
+  avatar: jack.png
+  email: zhigu1017@gmail.com
+  disqus-shortname: JackWzh
   twitter: #your-twitter-name
   facebook: #username
-  github: #your-github-name
+  github: jackwzh
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram:

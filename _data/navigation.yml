@@ -8,12 +8,16 @@
   url: /blog/
   icon: pencil
 
+- title: 笔记
+  url: /note/
+  icon: bookmark
+
 - title: Music
   url: /music/
   icon: music
-  
-- title: Stories
-  url: /stories/
+
+- title: 北偏东55.62°
+  url: /nonsense/
   icon: book
 
 - title: Tags
