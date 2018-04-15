@@ -2,7 +2,7 @@
 layout: page
 title: 北偏东55.62°
 categories: [nonsense]
-permalink: '/nonsense'
+permalink: '/nonsense/'
 search_omit: true
 hidelogo: true
 ---

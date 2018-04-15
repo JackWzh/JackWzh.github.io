@@ -2,7 +2,7 @@
 layout: page
 title: 笔记
 categories: [note]
-permalink: '/note'
+permalink: '/note/'
 search_omit: true
 hidelogo: true
 ---
