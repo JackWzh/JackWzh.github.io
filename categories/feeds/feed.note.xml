@@ -1,0 +1,5 @@
+---
+permalink: /feed.note.xml
+sitemap: false
+---
+{% include category-feed.xml postlist=site.categories.note taxonomy='note' %}

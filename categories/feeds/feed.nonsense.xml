@@ -1,0 +1,5 @@
+---
+permalink: /feed.nonsense.xml
+sitemap: false
+---
+{% include category-feed.xml postlist=site.categories.nonsense taxonomy='nonsense' %}

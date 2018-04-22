@@ -4,6 +4,7 @@ title: About this blogbook
 excerpt: "About this site"
 date: '2017-11-02T20:00:00+01:00'
 search_omit: true
+permalink: /about/
 ---
 **我感觉我已经看到了终点，我只不过在尽力地拖延时间。**
 
