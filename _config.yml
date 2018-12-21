@@ -6,7 +6,7 @@ timezone: Asia/Shanghai
 description: Where Old Jack's Heart Belongs To
 logo: white-house.jpg
 search: true
-url: https://jackwzh.github.io
+url: https://jackliar.github.io
 external_data_url: # common url for images and other external data
 
 # Jekyll configuration
@@ -80,7 +80,7 @@ owner:
   disqus-shortname: JackWzh
   twitter: #your-twitter-name
   facebook: #username
-  github: jackwzh
+  github: jackliar
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram:
